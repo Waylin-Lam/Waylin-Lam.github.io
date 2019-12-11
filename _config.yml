@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Waylin
+      avatar: /assets/images/Waylin_201812051108.jpg
       
   # all pages
   - scope:
