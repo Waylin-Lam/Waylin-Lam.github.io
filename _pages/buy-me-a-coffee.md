@@ -3,10 +3,10 @@ title: "Buy me a coffee"
 permalink: "/buy-me-a-coffee.html"
 ---
 
-Hi! I am Sal, web designer & developer at WowThemes.net. The free items I create are my side projects and **Mundana for Jekyll** is one of them. You can find **all the work I release for free [here](https://www.wowthemes.net/category/free-themes-templates/)**. 
+Hi! I am Waylin, Hobby web designer & developer at kuntok.com. This web I create is my side project and **Waylin's Personal Blog** is one of mine personal website. You can find **The products I am selling [here](https://www.kuntok.com/products/)**. 
 
-You have my permission to use the free items I develop in your personal, commercial or client projects. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
+If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
 
 Thank you so much!
 
-<a class="btn btn-danger" href="https://www.wowthemes.net/donate/">Buy me a coffee</a>
+<a class="btn btn-danger" href="https://mdgw.alipay.com/wsdk/img?fileid=A*3VMBTLYKvsgAAAAAAAAAAABjAQAAAQ&t=tvtfGcXsb-2GKx49n_NmXwAAAABkJyAAAAAA&bz=am_afts_morderprod&zoom=original/">Buy me a coffee</a>
