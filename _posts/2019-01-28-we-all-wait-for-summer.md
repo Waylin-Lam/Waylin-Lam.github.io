@@ -2,7 +2,7 @@
 layout: post
 title:  "We all wait for summer"
 author: Waylin
-categories: [ Jekyll, tutorial ]
+categories: [ tutorial ]
 image: assets/images/1.jpg
 tags: [featured]
 ---
