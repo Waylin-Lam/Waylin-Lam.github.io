@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick Start Guide"
 author: Waylin
-categories: [ Jekyll, tutorial ]
+categories: [ tutorial ]
 image: assets/images/12.jpg
 ---
 
