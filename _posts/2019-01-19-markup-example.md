@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown Example"
 author: Waylin
-categories: [ Jekyll, tutorial ]
+categories: [ tutorial ]
 image: assets/images/6.jpg
 tags: featured
 ---
