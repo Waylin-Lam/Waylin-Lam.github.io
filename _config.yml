@@ -4,9 +4,9 @@ description: 'Just do it.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/Waylin-Lim.github.io'
-disqus: 'demowebsite'
+disqus: 'Waylin's personal blog'
 email: '1079320517@qq.com'
-mailchimp-list: 'https://wowthemes.us11.list-manae.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://us4.admin.mailchimp.com/account/connected-sites/site-detail?id=13071'
 
 include: ["_pages"]
 permalink: /:title/
@@ -25,7 +25,9 @@ authors:
       avatar:         /assets/images/Waylin_201812051108.jpg
       bio:            "Hi, I am Waylin, the author of this blog you're currently previewing. I hope you like it!"
       email:          1079320517@qq.com
+      linkedin:       https://www.linkedin.com/in/waylin-lim-39a4b5110/
       twitter:        https://twitter.com/WaylinLim
+      facebook:       https://www.facebook.com/WaylinLimCN
 
 # Defaults
 defaults:
