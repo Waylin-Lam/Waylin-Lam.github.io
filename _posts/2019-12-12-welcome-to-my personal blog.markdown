@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-categories: [ WAYLIN ]
+categories: [ Welcome ]
 image: assets/images/demo1.jpg
 ---
 Youth is not a time of life; it is a state of mind. It is not a matter of rosy cheeks, red lips and supple knees. It is a matter of the will, a quality of the imagination, vigor of the emotions; it is the freshness of the deep spring of life.
