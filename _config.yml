@@ -1,5 +1,5 @@
 # Site
-name: 'Waylin Lim'
+name: 'Waylin Lam'
 description: 'Just do it.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -20,10 +20,10 @@ plugins:
   
 authors:
     Waylin:
-      name:           Waylin
+      name:           Waylin Lam
       site:           https://www.kuntok.com
       avatar:         /assets/images/Waylin_201812051108.jpg
-      bio:            "Hi, I am Waylin, the author of this blog you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Waylin Lam, the author of this blog you're currently previewing. I hope you like it!"
       email:          1079320517@qq.com
       linkedin:       https://www.linkedin.com/in/waylin-lim-39a4b5110/
       twitter:        https://twitter.com/WaylinLim
@@ -37,7 +37,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Waylin
+      author: Waylin Lam
       avatar: /assets/images/Waylin_201812051108.jpg
       
   # all pages
