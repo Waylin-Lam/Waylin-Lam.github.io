@@ -43,7 +43,7 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 
 Copyright (C) 2019 Waylin-Lam.github.io.
 
-Blog designed and developed by [Waylin Lam](https://Waylin-Lim.github.io), *free* under MIT license. 
+Blog designed and developed by [Waylin Lam](https://Waylin-Lam.github.io), *free* under MIT license. 
 
 <a href="https://mdgw.alipay.com/wsdk/img?fileid=A*3VMBTLYKvsgAAAAAAAAAAABjAQAAAQ&t=tvtfGcXsb-2GKx49n_NmXwAAAABkJyAAAAAA&bz=am_afts_morderprod&zoom=original/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
